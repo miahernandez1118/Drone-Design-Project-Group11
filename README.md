@@ -1,5 +1,5 @@
 # Drone-Design-Project
-MATLAB Drone Payload Structure Design and Analysis for group challenge.
+MATLAB Drone Payload Structure Design and Analysis for Group 11.
 
 Objective of Drone Design Project:
 1. Propose two different drone arm designs.
@@ -9,5 +9,9 @@ Objective of Drone Design Project:
 5. Propose final design recommendation.
 
 To run the code and reproduce the FEA simulation, you will need:
+3. Clone the Repository
+4. Open 'DroneDesign_StudentProjectTemplate'.mlx' in MATLAB
+
+Required Toolboxes and Dependencies:
 1. MATLAB
 2. Partial Differential Equation Toolbox
