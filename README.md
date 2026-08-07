@@ -10,7 +10,7 @@ Objective of Drone Design Project:
 
 To run the code and reproduce the FEA simulation, you will need:
 1. Clone the Repository
-2. Open 'DroneDesign_StudentProjectTemplate'.mlx' in MATLAB
+2. Open 'DroneDesign_StudentProjectTemplate.mlx' in MATLAB
 
 Required Toolboxes and Dependencies:
 1. MATLAB
